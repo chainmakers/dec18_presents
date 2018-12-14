@@ -1,0 +1,1090 @@
+[
+    Address {
+        addr: "RHfbV2D4B7eR5oh7D2N2f5AecXn8pGtqbm",
+        amount: 400000.0
+    },
+    Address {
+        addr: "RAxJZhfTnyC62wV8cYZAcS4b1vTpZf1DoY",
+        amount: 400000.0
+    },
+    Address {
+        addr: "REbwjC5mfQBRevH78CuRjcvQudxa3ii5Ma",
+        amount: 81799.96985
+    },
+    Address {
+        addr: "RGm7bKCXYarTXSoN3x2kLvzSz6BRkCSWdV",
+        amount: 10000.03
+    },
+    Address {
+        addr: "RYEufBcEUsofxwt4bGUdroRGmAQxBR8aJG",
+        amount: 7130.10657022
+    },
+    Address {
+        addr: "RLj9h7zfnx4X9hvquR3sEwzHvcvF61W2Rc",
+        amount: 2745.71219534
+    },
+    Address {
+        addr: "RYLTfS14igz6EagxRYgHSMZBSBjGT5BGSG",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RY5E8hWw28cHmeQT2GbYyihh34Tvp4Q9qY",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RXdBJ5cWDcS38ykuggEQZh3vSztxwmG3ut",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RXNidYfnDwMwNRXCsAVhNdZj6TpAeToUsh",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RWjWGj2RG7EK5NxUMeQ1VktPJRxbsmYQEA",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RVebgJ75mwiA5qYh4MwsGapJ2rYuG9r9SG",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RUfN2j78queCYM7nEzqUa4SbNrHSStK5RG",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RU4qPt7ekPB11nnx3WzVf1Utfx8V3H5FYh",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RTy19MTqxX8xRrUdHmrizD7fxL6YcgsvVs",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RTTScVtRNoKckgkVUuBu8JNUFLDNP1AHJN",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RTNVt8e34Fm31o8osk8nX8SQcbmJXSu6rf",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RSkvgoXc3gbdE4Wv5Epmwwgvm8arhA2NEb",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RSg271ZWRrxemsCkYgn5VEnqnUFU5AUJgQ",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RRLQJ9yhGsNzf2HKLNf3qQH7Rnitai995n",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RNSFs3Vjpep4qhCxGhmqbpzi46xf4HWHh8",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RN9hChnbtu8zSsg6q6b4HX2689TTcHpq7U",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RMu2WCJLTsbSPaTXguXD6rMSqLQJRHK4sy",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RMYqPrPpgosrjcoS34WmBtG9KDRmE7WcXK",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RLzKQKXgsoqbC2X9cskQpbHNYLewZKanjq",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RLimUpPv5KPfU79NaN3tBxvRP1hyam65FH",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RLgQSp5USfZeQvNxeHLVA9hsEa5oKWEMkW",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RLTZVdyABnKr1hUA3VSETuwgDRBCVR53BM",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RLHWYap1HgPJ1RcGrg7JRwUihUmZhs3K7C",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RKmREWUZmLMR8SE2rbfHQ26M85WpaUzoVM",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RHkDqjCZcXqpP33w9CFMVbLcNbD2PCTwTp",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RGitZKo8pi2gRhj1JLV8M7ZKNxkm6RRVEU",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RFteZXyAy9hJMJav1zPop5RDEam5Znfku2",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RFVp94ZGAAbFhKZG9BwuCBwEjDG9gCpY1g",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RFNTnvAPxkyBkGvTCjQCPEwTtEtvGvUFfk",
+        amount: 2127.0
+    },
+    Address {
+        addr: "REZGVwrx3AZQ2ucE3jMSZwyE1tTSN4t93C",
+        amount: 2127.0
+    },
+    Address {
+        addr: "REJpKpXKb2yx32ZAMuXZZKCmKv9ux7N2n5",
+        amount: 2127.0
+    },
+    Address {
+        addr: "REJAdP3icN9rT7rpxixPKc91WSm8s4uj2c",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RDaQYvsP6se5tMTe4PKXN7a5SH4N9up1M8",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RCyPv5yxQBEXneh9pX4Wofj76mDieXbmLw",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RChLsTZALwdacn8xfEsCdNDVmtRXBfqsTG",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RCd5xQMzktA2Pjh6eJuKwmvmpsU33bNhPM",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RCanny9VucpbjJ5xZmvX1mq1a7Xg5VtcJR",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RBaaVttGxqWJDHKucn7VVwsywkwu2CrDPf",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RBU9ioW2xnDYtq52EYSh5HB5ghtMcKkkmi",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RB9quiBv9b8Xf5szBaddgxko6ZNU4avJGS",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RAvAwRaQMigcAPZPQamMcAYuDU82bTdqem",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RAfW9pukafJsa2CweFztAsFxaSW8HT7KfY",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RAdD1LGMXzFhCQTi3kgoLvb5H8LmNTNDnH",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RABX76mRux6dbADB2mM6F2gUbG1a5m1TH3",
+        amount: 2127.0
+    },
+    Address {
+        addr: "R9tG2NXGWUqb557VgRc9ouPxxp7qKvZfAj",
+        amount: 2127.0
+    },
+    Address {
+        addr: "RFQFZgQpv2Gh2DiamfKbAnHSvy53Cgduag",
+        amount: 199.9999
+    },
+    Address {
+        addr: "RJgxaiZtxkCNgon5XaRdBeYTTxGw3tVJSQ",
+        amount: 98.93305
+    },
+    Address {
+        addr: "RXL3YXG2ceaB6C5hfJcN4fvmLH2C34knhA",
+        amount: 9.560876
+    },
+    Address {
+        addr: "RQipE6ycbVVb9vCkhqrK8PGZs2p5YmiBtg",
+        amount: 8.29038456
+    },
+    Address {
+        addr: "RVPVpBLVrqSrUUfkhvjgn5VUJaSreQFB6R",
+        amount: 8.0761525
+    },
+    Address {
+        addr: "RNJmgYaFF5DbnrNUX6pMYz9rcnDKC2tuAc",
+        amount: 4.987577
+    },
+    Address {
+        addr: "RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1",
+        amount: 3.77473772
+    },
+    Address {
+        addr: "RPjUmFNcWEW9Bu275kPxzRXyWDz6bfQpPD",
+        amount: 3.26348
+    },
+    Address {
+        addr: "RFssbc211PJdVy1bvcvAG5X2N4ovPAoy5o",
+        amount: 3.237212
+    },
+    Address {
+        addr: "RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by",
+        amount: 3.19715787
+    },
+    Address {
+        addr: "RLQoAcs1RaqW1xfN2NJwoZWW5twexPhuGB",
+        amount: 3.13709005
+    },
+    Address {
+        addr: "RQcBfvJLyB96GCuTBRUNckQESw8LYjHQaC",
+        amount: 3.091948
+    },
+    Address {
+        addr: "RA7nJEoqNGu13P7Gv4mWfoJTmpZ9ac2Bh2",
+        amount: 3.04594403
+    },
+    Address {
+        addr: "RVQAwUJdFVVK2Pjiq4rYkvMSiZucHtJA7X",
+        amount: 3.03434455
+    },
+    Address {
+        addr: "RJD5jRidYW9Cu8qxjg9HDCsx6J3A4wQ4LU",
+        amount: 3.00996731
+    },
+    Address {
+        addr: "RXF3aHUaWDUY4fRRYmBNALoHWkgSQCiJ4f",
+        amount: 2.958312
+    },
+    Address {
+        addr: "RAtXFwGsgtsHJGuKhJBMbB8vri3SRVQYeu",
+        amount: 2.9481621
+    },
+    Address {
+        addr: "RNoz2DKPZ2ppMxgYx5tce9sjZBHefvPvNB",
+        amount: 2.94
+    },
+    Address {
+        addr: "RL2SkPSCGMvcHqZ56ErfMxbQGdA4nk7MZp",
+        amount: 2.93231067
+    },
+    Address {
+        addr: "RWPhKTa5Huepz19TYrxAE65rQn3D3xPrNw",
+        amount: 2.87293302
+    },
+    Address {
+        addr: "RRrqjqDPZ9XC6xJMeKgf7GNHjiU88hJQ16",
+        amount: 2.82099026
+    },
+    Address {
+        addr: "RXzsovGBQ3W97xnVC6JnWxXsV4qb7p7iBi",
+        amount: 2.798744
+    },
+    Address {
+        addr: "RAusaHRqdMmML3szif3Wai1ZSEWCyu7X9Y",
+        amount: 2.78911611
+    },
+    Address {
+        addr: "RFQNjTfcvSAmf8D83og1NrdHj1wH2fc5X4",
+        amount: 2.70212347
+    },
+    Address {
+        addr: "RAtyzPtx7yeH7jhFkD7e2dhf2p429Cn3tQ",
+        amount: 2.69680654
+    },
+    Address {
+        addr: "RUgW6fLfVsLJ87Ng4zJTqNedJSKYQ9ToAf",
+        amount: 2.643784
+    },
+    Address {
+        addr: "RBpp98VwHx7SFv7dNbw8NY65t14XFq9fVD",
+        amount: 2.552984
+    },
+    Address {
+        addr: "RT2JyVts5tb1prC7KYykmznrqw7VXJo1HB",
+        amount: 2.507536
+    },
+    Address {
+        addr: "RCA8H1npFPW5pnJRzycF8tFEJmn6XZhD4j",
+        amount: 2.49435387
+    },
+    Address {
+        addr: "R9tjkpdNbzw6mNfxorb5bvTPmsuon5aLrC",
+        amount: 2.44604571
+    },
+    Address {
+        addr: "R9WsywChUgTumbK2cf1RdjHrWMZV3nfs3a",
+        amount: 2.44469401
+    },
+    Address {
+        addr: "RDY9LJZTEJ9FsvugUuD69gceA98uqan5XL",
+        amount: 2.04708595
+    },
+    Address {
+        addr: "RNFCjb8BMFc91LxaaaZ4DCMW8ysk6bJDFd",
+        amount: 2.000333
+    },
+    Address {
+        addr: "RCynegJbFdMDpSEwSg4JxZnbURfHwom8qU",
+        amount: 2.000333
+    },
+    Address {
+        addr: "RXtADsErZLmsGhNyQdW2DekHMGZ23cLrav",
+        amount: 2.0
+    },
+    Address {
+        addr: "RXbb9PkefXcsqq8wqiUZZUuq8e3p29mw1G",
+        amount: 2.0
+    },
+    Address {
+        addr: "RWZaANoUC9vgDU3Xd2VD2FMFPuyrF4krXF",
+        amount: 2.0
+    },
+    Address {
+        addr: "RSCQKVUhihKb13rb5VJwXsbSY6pdRPUZ6V",
+        amount: 2.0
+    },
+    Address {
+        addr: "RNZKqUgoAPwWd7wNtuSKP7k1HSJAyPeH4N",
+        amount: 2.0
+    },
+    Address {
+        addr: "RHASfhhM6bvDFakRDqkzA2wc3V4R4oNmXi",
+        amount: 2.0
+    },
+    Address {
+        addr: "REuQ7EoxKeMYk4EGptV6EwdfV9LZXuc44g",
+        amount: 2.0
+    },
+    Address {
+        addr: "RERp696QtNTeWDfBy3x3QbRwPYN2NxwxfA",
+        amount: 2.0
+    },
+    Address {
+        addr: "RDYsrWBZkYSWhRDupGRrfGqrVnFtK9hJGC",
+        amount: 2.0
+    },
+    Address {
+        addr: "RDVqM6t5xZw9jbYXEw2CJgkiSbrHBHiKR3",
+        amount: 2.0
+    },
+    Address {
+        addr: "RATaU3jjn4RwHK61YWoJ4eg7Eggk3puZW8",
+        amount: 2.0
+    },
+    Address {
+        addr: "R9jhJCwgT78pyjnkNuxgH3CE8ekxgT8iwB",
+        amount: 2.0
+    },
+    Address {
+        addr: "RXqdRmv7n9hygf9C7f7vj4VQyNR9RvzXss",
+        amount: 1.99895
+    },
+    Address {
+        addr: "RSvpo7RHmUdAAD76BVUUgd2LMxzbNVXC7j",
+        amount: 1.9773
+    },
+    Address {
+        addr: "RFHRWQ5pAXNfmudHfxdxw3Wo8yFGoeDn6z",
+        amount: 1.9508
+    },
+    Address {
+        addr: "R9XBrbj8iKkwy9M4erUqRaBinAiZSTXav3",
+        amount: 1.93929065
+    },
+    Address {
+        addr: "RE3P8D8rcWZBeKmT8DURPdezW87MU5Ho3F",
+        amount: 1.90261914
+    },
+    Address {
+        addr: "RHv3wyVnnanG2kSQmLNmjwAQeYRRAptxUy",
+        amount: 1.8341
+    },
+    Address {
+        addr: "R9TGdzN25MgdRkYfsYfxZWzHCLVCyWFAei",
+        amount: 1.8104
+    },
+    Address {
+        addr: "RQMwcDYMVBx9f4QCFfFk31px8QZP4e8uhA",
+        amount: 1.797112
+    },
+    Address {
+        addr: "RSvUb6s8YrZDexgHMgQhx9wwt3iAhWfo3h",
+        amount: 1.703
+    },
+    Address {
+        addr: "RVxtoUT9CXbC1LdhztNAf9yR5ySnFnSPQh",
+        amount: 1.63781906
+    },
+    Address {
+        addr: "RPknkGAHMwUBvfKQfvw9FyatTZzicSiN4y",
+        amount: 1.52690683
+    },
+    Address {
+        addr: "RQMyeeSyKFUTd7cYTM1Fq7nSt6zJZKNubi",
+        amount: 1.4761639
+    },
+    Address {
+        addr: "RTA3ZCQNxpkUMsGBGevDYrNo1U922oQHNb",
+        amount: 1.42458674
+    },
+    Address {
+        addr: "RCTgouafkve3rCSaqmm89TUpKGvQSTFr5M",
+        amount: 1.39294512
+    },
+    Address {
+        addr: "RKdXYhrQxB3LtwGpysGenKFHFTqSi5g7EF",
+        amount: 1.3325203
+    },
+    Address {
+        addr: "RH2Tuan5wt9x19aBPgTHPtkh2koWCEsjEK",
+        amount: 1.2591788
+    },
+    Address {
+        addr: "RY5TZSnmtGZLFMpnJTE6gDRyk1zDvMktcc",
+        amount: 1.14314607
+    },
+    Address {
+        addr: "RTWpNfpcQgGYnrtgdUyqoPiF9r2CJoAw6Z",
+        amount: 1.13597427
+    },
+    Address {
+        addr: "RHuUpCbaGbv27fsjC1p6xwtwRzKQ1exqaA",
+        amount: 1.10500349
+    },
+    Address {
+        addr: "RFCZc3SnyEtUTSVDkHEvrm7tCdhiDMufLx",
+        amount: 1.02607053
+    },
+    Address {
+        addr: "RFKUQvGxKYsPzoCznsa2tGmc85kpbr6wxJ",
+        amount: 1.00162436
+    },
+    Address {
+        addr: "RTdEgZV1QEsBTphiRRdk4FcstTBJ8wAkRX",
+        amount: 0.9752525
+    },
+    Address {
+        addr: "RVvcVXkqWmMmjQdFnqwQbtPrdU7DFpHA3G",
+        amount: 0.93912249
+    },
+    Address {
+        addr: "RWgpXEycP4rVkFp3j7WzV6E2LfR842WswN",
+        amount: 0.91855522
+    },
+    Address {
+        addr: "RUvwCVA1NfDB6ZWrEgVYZHWGjMzpxm19r1",
+        amount: 0.89575
+    },
+    Address {
+        addr: "RRvaVyKS59NJWhPp8Pn7mVPGhMuhJJXrdh",
+        amount: 0.880024
+    },
+    Address {
+        addr: "RFrCkbL9sS4nDjPgj4Di2DqyAnnHfyrj6W",
+        amount: 0.86559953
+    },
+    Address {
+        addr: "RTZi9uC1wEu3PD9eoL4R7KyeAse7uvdHuS",
+        amount: 0.85169401
+    },
+    Address {
+        addr: "RXrQPqU4SwARri1m2n7232TDECvjzXCJh4",
+        amount: 0.83175925
+    },
+    Address {
+        addr: "RVAUHZ4QGzxmW815b98oMv943FCms6AzUi",
+        amount: 0.81105128
+    },
+    Address {
+        addr: "RBHCkuYMUbQph7MZsHcZYfGfyqBm8Y4jFQ",
+        amount: 0.8014305
+    },
+    Address {
+        addr: "RLF3sBrXAdofwDnS2114mkBMSBeJDd5Doy",
+        amount: 0.78648353
+    },
+    Address {
+        addr: "RGxBQho3stt6EiApWTzFZxDvqqsM8GwAuk",
+        amount: 0.775362
+    },
+    Address {
+        addr: "RSuXRScqHNbRFqjur2C3tf3oDoauBs2B1i",
+        amount: 0.77036493
+    },
+    Address {
+        addr: "RBp1xHCAb3XcLAV49F8wUYw3aBvhHKKEwa",
+        amount: 0.76875903
+    },
+    Address {
+        addr: "RAqoFL81YGFJ7hidAYUw2rzX8wjFKPCecP",
+        amount: 0.76387699
+    },
+    Address {
+        addr: "RSQUoSfM7R7SnatK6Udsb5t39movCpUKQE",
+        amount: 0.74938243
+    },
+    Address {
+        addr: "REX8jNcUki4NyNde3ovr5ZgjwnCyRZYczv",
+        amount: 0.7451
+    },
+    Address {
+        addr: "RHzbQkW7oLK43GKEPK78rSCs7WDiaa4dbw",
+        amount: 0.74171074
+    },
+    Address {
+        addr: "RSHdRnHHGdPtVej7fiehHBQ6dyTbEM1GHi",
+        amount: 0.712712
+    },
+    Address {
+        addr: "RUc5sa136Agwb9dSfMKn1oc7myHkUzeZf4",
+        amount: 0.70428349
+    },
+    Address {
+        addr: "RQ5JmyvjzGMxZvs2auTabXVQeuxrA2oBjy",
+        amount: 0.69254471
+    },
+    Address {
+        addr: "RUdfZrpAhYyT4LVz6Vyj2K14yK1uC2K4Dz",
+        amount: 0.68746248
+    },
+    Address {
+        addr: "RWv8PKHmwnXepCeinnZU43BPju6CN8rkcM",
+        amount: 0.67416016
+    },
+    Address {
+        addr: "RUreYvNjhZYc1vP8cND9Cztpni1pYsigXb",
+        amount: 0.6647
+    },
+    Address {
+        addr: "RWk4WLiAv6MKWLozJbj1jyhayKtjwbtX7M",
+        amount: 0.64589922
+    },
+    Address {
+        addr: "RMbNsa4Nf3BAd16BQaAAmfzAgnuorUDrCr",
+        amount: 0.63924993
+    },
+    Address {
+        addr: "RDECKVXcWCgPpMrKqQmMX7PxzQVLCzcR5a",
+        amount: 0.60270356
+    },
+    Address {
+        addr: "RPxsaGNqTKzPnbm5q7QXwu7b6EZWuLxJG3",
+        amount: 0.59787086
+    },
+    Address {
+        addr: "RWVt3CDvXXAw5NeyMrjUC8s7YssAJ9j4A4",
+        amount: 0.5768476
+    },
+    Address {
+        addr: "RBHzJTW73U3nyHyxBwiG92bJckxZowPY87",
+        amount: 0.56656189
+    },
+    Address {
+        addr: "RWqo9fryWW9bDGVsGTErVivJJcEExFLqzu",
+        amount: 0.38173311
+    },
+    Address {
+        addr: "RBZxvAMqt1QhkvmiMRqDGRBW9QaQjqPEpF",
+        amount: 0.3677
+    },
+    Address {
+        addr: "RD2uPC7aUkX9tQTYgRvDb2HQPWa22VttEE",
+        amount: 0.363
+    },
+    Address {
+        addr: "RNjR6zF6tjuKdnLYgsuUe343RKcTR1WX4t",
+        amount: 0.32904202
+    },
+    Address {
+        addr: "RSp8vhyL6hN3yqn5V1qje62pBgBE9fv3Eh",
+        amount: 0.28192354
+    },
+    Address {
+        addr: "RMqbQz4NPNbG15QBwy9EFvLn4NX5Fa7w5g",
+        amount: 0.18677624
+    },
+    Address {
+        addr: "RXwobdzva6uauuLsHBr98X5oJBQjMJKYRJ",
+        amount: 0.167172
+    },
+    Address {
+        addr: "RXg86CtL7wyUWtLHyzgJkUv5Kn8YJVdmZj",
+        amount: 0.11216826
+    },
+    Address {
+        addr: "RMRUCyUvDnGQWJ9TLM5cN3ybaZxGswQMq9",
+        amount: 0.09953
+    },
+    Address {
+        addr: "RQSLTaMNcUGsfR7HQJKvcJg76ZM9Fo5RSC",
+        amount: 0.09399638
+    },
+    Address {
+        addr: "RNRxDJYpm3XXcbVEXCeFLrPTzxY2dVtauq",
+        amount: 0.091424
+    },
+    Address {
+        addr: "RVKtRKozg8RKvEYCumMD43fCU6f212M5RD",
+        amount: 0.082912
+    },
+    Address {
+        addr: "REk4RLWk25s43FGFbfribZaRDzKph5iiP3",
+        amount: 0.0719
+    },
+    Address {
+        addr: "RL4oHoGDB1q6BnFv18442LDKuV8mJvxQSV",
+        amount: 0.06089947
+    },
+    Address {
+        addr: "RX1fdM62nJZnyqmH3Ukv7pDJVgsvV4aMqi",
+        amount: 0.05195
+    },
+    Address {
+        addr: "RHPGxpiwRHP4dKZXjYPdpon1nCto7qVE8s",
+        amount: 0.05023
+    },
+    Address {
+        addr: "RYGrWs5b8CVFFpxGpjiBaMwfYV9X5UqFaB",
+        amount: 0.0496
+    },
+    Address {
+        addr: "RU3yYGAz1xVjkLbeEdxKq5WpQNDdkYd83V",
+        amount: 0.039303
+    },
+    Address {
+        addr: "RVU9XGr6rUDaFtBkb96xCgZFWz7uABmHwF",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RV9pDW7x8S2nptFQNbDCe3aA8ShntMrHeF",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RUrUMKTzNLpTz5XGPaEAfQ37YRy4TaSVzT",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RLNTcYSEgwKPwGGugGVeb1NAARPrgnfGMH",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RFx836oG7tGPziiMPEdAtBcWfqjDj3hVhC",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RFsopdtShiBxz5Gv2zKxyBKRNA7HpA8ouW",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RAxcurVdk91CAnZrzLF5BkeDbzp41qXxLK",
+        amount: 0.0304
+    },
+    Address {
+        addr: "R9riCzwiGg5sT9UezaeLCyh9A3wVweZtPe",
+        amount: 0.0304
+    },
+    Address {
+        addr: "RWuiKhWgn8XCQ2XzrBTB5mpWb1gGuBDWev",
+        amount: 0.03
+    },
+    Address {
+        addr: "RXPeob5uoGa7B2d8it15PBgpFBFsoDqWrU",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RWLGb9vRUKgmiRfrs5Nmo7uJX7cekVTzwP",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RUrqLUPUSbT2uR6HbetzyFU28jN239H33m",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RTrxmE4ZbK5TYkNobygTsNR7qeZNKK5XRV",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RTCVsqNJUvf4qyzD45TpbimBL4B3zJjWMA",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RSR4uyrTm55jzXpoN4zE3Uh3ZHHuEWyW96",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RS2XfVNvaLkq6KhdBDULhh4aJTeomundVu",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RQGrcZfD1HRnzqd5FQ2Xn5KyszHDMjQRtz",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RNf9fhQCtFKnv94dWGHLhxtapr3voZ6Jkv",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RNGt5SGtcZnBeDRejuxJJzwwQ5MjTe6MUY",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RM4wgsHZkdu8xvJjdaMfom4Y7g6E1bRqqk",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RLfiHVpJKjhRJJxR1kG6JzCon9z76BHuKY",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RLZ4cSDqTHniXiQjyDUkKSQKPxdWM62Uo8",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RKrCgKxsrvfGEqgtzx525Zd1K5f9sykxEs",
+        amount: 0.0203
+    },
+    Address {
+        addr: "REpPzHPmpVi6fodcvriJjisVsBmrH9c9AE",
+        amount: 0.0203
+    },
+    Address {
+        addr: "REmfUCfKjRVCwPTjYheMsm7dXtDKFMG1Gh",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RDZArUffZo7j8zsD5mW7NyobYuYtkdD2WT",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RDJCdvuGy36Wck195Z72VAnYRASDgTceYn",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RDGVezmPL2H5UUoZEjzM9dCpcG3EARKikg",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RC9aMbD9H3X3JmkyAsAGW8JXWQfRLFrbHz",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RBwz5oYFmwNBKbmbKiixpErRnh4YnQb83f",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RAJZ75j1jAFcyK92jw2X95TcdSi8DykmvU",
+        amount: 0.0203
+    },
+    Address {
+        addr: "RYUt3gpKK4ZxinbcdWGPxrZ2F3mdSTzZEo",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RY9UzfUBniYMLXwqZTQ1wDNejfVsYXdQdr",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RXXYCi3jahzCyZgiRsxtT5k3wen6CiYHxx",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RX7tCom12qT5YdUWZAwQZ5KVyfAmwVNo6H",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RWR2qoTmgZXip1MUYe8GMyir4niB7rGqJx",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RWPHbBk2y3sde3QF2Ds9KKPkZRUuiStEQw",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RWKzvZF2SWEbY1i3dEFd2Mr5bRMx1CuZKk",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RW74omM9rKSPwAbYxjSSjDFKRLsLRyuYr6",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RVyLLsypHCJHzWGkyt7dKQdkCRqu6bXL9m",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RVJiHiASKzgKBy3bQRJTQURPWP1BFdcdMQ",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RUi7bXzJFHEt7hqU3pNRZd3McaHgWmxigD",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RTvSkGjEKra1mXQmjgwHL7BUxrNiUXdTn1",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RTpZruEMtnr7ggDxFY2aCzhNc3jsRc47xR",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RTfMbceRx9qjnpEoBBycnDrzHGtqp1ete4",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RSgGNGLP743JQEgpGxznSLmKRUXkk4RK9a",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RRvjFWBGjwHiFpcFFrUxJfbTKB56eyNakc",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RRsZ4bco8hG4H3g6qtAjfSKRPb45ATxuZ5",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RRUNHFSsynNXx1evw9nwvcYVNLh4HTcTNM",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQyrWrSFt17XkmgzGDxrmXVt6D121gK5S5",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQwA9FW8aygXw6KnpUheQys6nA5U7f1bnz",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQrcytKEtFykSLa3VZNSo7EgcNovYfztMH",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQrVCeJ8nZYkVHBQuLA9XVzb1LZh1hjJgG",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQo8ZNuXyjvzVR8EmxGVwyUmHg76xDQpyw",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQKNgN3LsiP4o2ARM1hEy7pGF8hN8Qkw56",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RQFRzsjAMZyQGMJFvDPBE2qN4kZKaLjie3",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RPHF1opxocphWHUePLGmhUn2FKoScGUGPH",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RPCL8dXviGcmZUec8zBmgzgQCZfmvyxVwR",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RNYnDfU48AtpL5EsNZmEQkM7GfLMYrdqsg",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RN8ax1fFzukciCpnZzJcaC8JUyey3NPWrD",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RN5e6jAqGRzu7WcboKqgF4rvnd2UFnQJaj",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RMiLi4RG8iYMmb3jwaNvRJ7hkr1WRQyozD",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RMUgK8UieDqMsLwrgDdAtauabL2iz9bZoz",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RLn5g6maMgT458pkXbpmwqD6KRMRzDGhT1",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RLmHNqZfDH5bY3RdUACxbnm3gtFDN7Nvas",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RKx9WxMboMvdnnH3Hi7TADtac8BrWxRwV3",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RKYX36Mpk83coNEcrwmKAWHfM1Eq1P79VZ",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RKEwP6n78Hg1wwLQkxrgwkRzTQyUs9ZvA8",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RJyT4Akb8LSJrnSXWEPADvSHNH6s4NH2KA",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RJtuTuAZ2CAZtRYBRXoxbEVB1Pg2Z9C4f4",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RJtqy6WVbQiRXY9gnfuKQSYmqiHuP9YR8U",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RJaP32Cj8bmZ5jB194FKBLX5aV45cxfQur",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RJ5z44YtryYqaw6D3pZWcFCjboip3x4wwL",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RHycAJov1Cn8jrY9SqFKLTZGGuMRu9uars",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RHYHv8TyYgKMA9AxjhQN9Frxhe8p6fs1mw",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RHNCHqCLujEokGWnzGpXpAvSi1EDbtxuJq",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RGxrfK419kfZkTBPTqtpxuwAB8UytqfUZf",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RGsWs19Daed8jmWgifRLPrZiaBEwaizRDS",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RGouWmM71m842amFExXiF9EULax1Rv9yrF",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RGDVf5hNrtTKg2WNUwg75hKdqLP3CQy5j8",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RFxcbutDUkq1exVBHGRQ2jeN7uqfgE9hUK",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RFsHULur7H5foGHpFtw9qBZBPkMa9NwfKp",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RFYxJoGffjhkgHVtZtBRv9gg8BnEfEWc15",
+        amount: 0.0102
+    },
+    Address {
+        addr: "REW88LDm96DDpfQtHDz5n5KT3ca1D3Qsu4",
+        amount: 0.0102
+    },
+    Address {
+        addr: "REUhJG4DvybSFC2yjbqeBwEvYAFq6i4ZSN",
+        amount: 0.0102
+    },
+    Address {
+        addr: "REU6vMz58UX4xLitmN3MaRTtfU7pZsnJtg",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RETGfdcfhpuKoMNmDdDUYAn2kYitUaxzcz",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RELMZ8JcGDM3oWFqoGntfSfb4CD79kQqGy",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RDxSaoBBN8ETpq5hnqVnKrJfK4sSr5rk9V",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RDwacur9jfqoK65BhtqoERg1Hri2CBCxYL",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RDqWARzmn9arGnDLurszVEQYTY6tdRtmpJ",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RCpaiiMZCC6J5Q5oC8LZqzeCKAh9e82xfe",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RCebdqqjWyQ2McyW6dSg65FwYDNX3GZeRU",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RCU1uvwjGYZdRBY7wGvsFNWbxv5PCpuhQ3",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RCJrpF2urK7j64VCFmJf9wSPgAT57Uoh1Y",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RBZJSPTwoRASUzWyX5MhAyP6qbYgEqARFh",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RBHs5JraH4ao4v6tT1mYpjhXgh86hcJE9q",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RB8M1SfExjbPJJ8PA9eEpvddQfhDyxUhJP",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RAwMRcX4NiRwevJS5McsBUhLSH55suxvgF",
+        amount: 0.0102
+    },
+    Address {
+        addr: "RARrkXDoKZqXrdXeGWYUb5Rds7kQnMXozb",
+        amount: 0.0102
+    },
+    Address {
+        addr: "REiMcpfy4ZENFfPgCfan5U3R5sMAW46sCJ",
+        amount: 0.01006998
+    },
+    Address {
+        addr: "RT4bUGbteo2LM9ZChvfakpYgDQWiqQ5xX5",
+        amount: 0.01000682
+    },
+    Address {
+        addr: "RBW49xxMcV5vbcQrtDHNseQ38rFVaZqXzW",
+        amount: 0.01000392
+    },
+    Address {
+        addr: "RFpXdhccfMYTR5FRDUsbEW2HKs6TS4CaLr",
+        amount: 0.01000003
+    },
+    Address {
+        addr: "RKws2sYQCgPYpNqKf3hQMPBJgamMARk3nw",
+        amount: 0.01
+    }
+]

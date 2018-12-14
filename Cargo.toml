@@ -1,0 +1,10 @@
+[package]
+name = "chain_airdrop_dec18"
+version = "0.1.0"
+authors = ["Jorian <jorian@outlook.com>"]
+
+[dependencies]
+serde_json = "*"
+serde = "*"
+serde_derive = "*"
+serde-aux = "*"
