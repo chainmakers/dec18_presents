@@ -13,6 +13,8 @@ use serde_aux::prelude::*;
 use std::path::Path;
 use std::io::Write;
 use std::error::Error;
+use serde::Serialize;
+use serde::Serializer;
 
 #[derive(Deserialize, Debug)]
 pub struct Utxo {
@@ -27,7 +29,7 @@ pub struct Utxo {
     pub end_time: u32
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug)]
 pub struct Address {
     pub addr: String,
     #[serde(deserialize_with = "deserialize_number_from_string")]
@@ -35,7 +37,7 @@ pub struct Address {
 }
 
 fn main() {
-    let path = "/home/n41r0j/komodo/src/snapshot.json";
+    let path = "./snapshot.json";
     let file = File::open(path).expect(&format!("Could not open file: {}", path));
     let mut buf_reader = BufReader::new(file);
     let mut contents = String::new();
@@ -54,9 +56,11 @@ fn main() {
     println!("{:#?}", snapshot);
 
     let path = Path::new("./snapshot0.01.json");
-
     let mut file = File::create(&path).expect("Could not create file");
-    match file.write_all(&format!("{:#?}", snapshot).as_bytes()) {
+
+    let serialized = serde_json::to_string(&snapshot).expect("Could not serialize snapshot");
+
+    match file.write_all(&serialized.as_bytes()) {
         Err(err) => panic!("Could not write to file: {}", err.description()),
         Ok(_) => println!("Successfully wrote file.")
     }
