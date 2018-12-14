@@ -51,6 +51,11 @@ fn main() {
 
     let snapshot = snapshot.addresses.iter()
         .filter(|address| address.amount >= 0.01)
+        .filter(|address| {
+            !address.addr.as_str().contains("REbwjC5mfQBRevH78CuRjcvQudxa3ii5Ma") &&
+            !address.addr.as_str().contains("RGm7bKCXYarTXSoN3x2kLvzSz6BRkCSWdV") &&
+            !address.addr.as_str().contains("RYEufBcEUsofxwt4bGUdroRGmAQxBR8aJG")
+        })
         .collect::<Vec<_>>();
 
     println!("{:#?}", snapshot);
@@ -59,6 +64,7 @@ fn main() {
     let mut file = File::create(&path).expect("Could not create file");
 
     let serialized = serde_json::to_string(&snapshot).expect("Could not serialize snapshot");
+
 
     match file.write_all(&serialized.as_bytes()) {
         Err(err) => panic!("Could not write to file: {}", err.description()),
